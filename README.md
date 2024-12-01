@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohit.ranjan.910@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MohitR1999/ats-friendly-resume/releases/latest/download/mohit_ranjan_resume.pdf](https://github.com/MohitR1999/ats-friendly-resume/releases/latest/download/mohit_ranjan_resume.pdf)
+- 📄 Know about my experiences [from my resume](https://bit.ly/mohit-ranjan-resume) 
 
 - ⚡ Fun fact **There's no place like 127.0.0.1**
 

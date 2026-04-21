@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building mobile apps with React Native, React.js, TypeScript and Expo
+I'm currently building web and mobile apps with React Native, React.js, TypeScript and Expo. I like to tinker around with software, building and breaking things as I go ;)
 
 
 ## 🌐 Socials:
